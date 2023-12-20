@@ -15,4 +15,4 @@ call an ambulance and much more
 | <img src="assets/img_home_screen_4.png" height="400"> |
 | <img src="assets/img_home_screen_5.png" height="400"> |
 
-NodeJS version: v20.6.1
+NodeJS version: v20.10.0
